@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drbaph</h1>
-<h3 align="center">A passionate designer in the UK</h3>
-
+<h3 align="center">A passionate 3D designer & ML Researcher living in the UK</h3>
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saganaki22" alt="saganaki22" /></a> </p>
@@ -34,6 +34,13 @@ BTC: ```bc1qlp5urduycv8kaynym0z6cvgqwk7frxr8vk489a``` <br>
 ETH: ```0x1b3428796BbdCFd41672201EA42E4d5446DdbCeE``` <br>
 
 </div>
+
+<p align="center">
+  <a href="https://huggingface.co/drbaph">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face Logo">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saganaki22&show_icons=true&locale=en" alt="saganaki22" />
