@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/drbaph" target="blank"><img src="https://img.shields.io/twitter/follow/drbaph?logo=twitter&style=for-the-badge" alt="drbaph" /></a> </p>
 
-<p align="center">📫 Reach me at <a href="mailto:dev@drbaph.com">dev@drbaph.com</a> or <a href="https://drbaph.com/contact">drbaph.com/contact</a>
+<p align="center">📫 Reach me at <a href="mailto:info@drbaph.dev">info@drbaph.dev</a> or <a href="https://drbaph.com/contact">drbaph.com/contact</a>
 
 
 <h3 align="center">Connect with me:</h3>
