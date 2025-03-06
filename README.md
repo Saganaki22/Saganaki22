@@ -41,9 +41,6 @@ ETH: ```0x1b3428796BbdCFd41672201EA42E4d5446DdbCeE``` <br>
   </a>
 </p>
 
- 
-### Github Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saganaki22&theme=tokyonight&show_icons=true&hide_border=true" />
   <img src="https://github-readme-streak-stats-ten-topaz.vercel.app/?user=Saganaki22&theme=tokyonight&hide_border=true" />
