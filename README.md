@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Drbaph</h1>
 <h3 align="center">A passionate 3D designer & ML Researcher living in the UK</h3>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saganaki22" alt="saganaki22" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saganaki22&theme=darkhub" alt="saganaki22" /></a> </p> 
 
 <p align="center"> <a href="https://twitter.com/drbaph" target="blank"><img src="https://img.shields.io/twitter/follow/drbaph?logo=twitter&style=for-the-badge" alt="drbaph" /></a> </p>
 
