@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="./gif1.gif" height="200" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Drbaph</h1>
 <h3 align="center">A passionate 3D designer & ML Researcher</h3> 
 
+<p align="center">
+  <img src="./gif1.gif" height="200" />
+</p>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
 
