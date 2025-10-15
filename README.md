@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="./gif1.gif" height="200" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Drbaph</h1>
 <h3 align="center">A passionate 3D designer & ML Researcher</h3> 
-
-<p align="center">
-  <img src="./gif.gif" height="200" />
-</p>
 
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
@@ -22,6 +23,11 @@
 </p>
 
 <br>
+
+###
+
+<img src="https://raw.githubusercontent.com/Saganaki22/Saganaki22/output/snake.svg" alt="Snake animation" />
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -135,6 +141,3 @@ ETH: ```0x1b3428796BbdCFd41672201EA42E4d5446DdbCeE``` <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saganaki22&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Saganaki22/Saganaki22/output/snake.svg" alt="Snake animation" />
