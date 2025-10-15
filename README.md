@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Drbaph</h1>
 <h3 align="center">A passionate 3D designer & ML Researcher</h3> 
 
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhsYTJtODBhZm9idWFlOWtvdHl0czRqNjcxcWplaXd3ZmVreWo5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wbalHRjJeE8HZ0fvhs/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="./gif.gif" height="200" />
+</p>
+
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
 
