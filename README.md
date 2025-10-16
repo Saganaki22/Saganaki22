@@ -2,8 +2,11 @@
 <h3 align="center">A passionate 3D designer & ML Researcher</h3> 
 
 <p align="center">
-  <img src="./gif.gif" height="200" />
+  <a href="https://projectbasilisk.pages.dev/" target="_blank">
+    <img src="./gif.gif" height="200" alt="Clickable GIF" />
+  </a>
 </p>
+
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
 
