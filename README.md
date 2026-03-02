@@ -10,8 +10,6 @@
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saganaki22&label=Profile%20views&color=0e75b6&style=flat" alt="saganaki22" /> </p> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saganaki22&theme=darkhub" alt="saganaki22" /></a> </p> 
-
 <p align="center"> <a href="https://twitter.com/drbaph" target="blank"><img src="https://img.shields.io/twitter/follow/drbaph?logo=twitter&style=for-the-badge" alt="drbaph" /></a> </p>
 
 <p align="center">📫 Reach me at <a href="mailto:info@drbaph.dev">info@drbaph.dev</a> or <a href="https://drbaph.com/contact">drbaph.com/contact</a>
@@ -117,15 +115,22 @@
 
 <p align="center">
   <a href="https://ko-fi.com/drbaph">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="drbaph" />
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Donate with Ko-fi" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://donate.stripe.com/14A14naG42SQbJo0gO6kg0h">
+    <img src="https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="50" alt="Donate with Stripe" />
   </a>
 </p>
 
 <div align="center">
   
 XMR: ```43566mSfE3sTbCeNHMnqUAjHtfi8eTp49gWSDUTy43Nq54coYDEvZt3bqmfpkrVUj9K536Bv31HLWVf9hxkDMPmoJHXrDGq``` <br>
+
 BTC: ```bc1qlp5urduycv8kaynym0z6cvgqwk7frxr8vk489a``` <br>
+
 ETH: ```0x1b3428796BbdCFd41672201EA42E4d5446DdbCeE``` <br>
+
 SOL: ```GT55rF4SPHQuiUWytDhYTfocNH7iwaAwDkmyDikkKECK``` <br>
 
 </div>
