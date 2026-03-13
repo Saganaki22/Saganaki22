@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Drbaph</h1>
-<h3 align="center">A passionate 3D designer & ML Researcher</h3> 
+<h1 align="center">𝐃𝐫𝐛𝐚𝐩𝐡</h1>
+<h3 align="center">𝟑𝐃 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐫 & 𝐌𝐋 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫</h3> 
 
 <p align="center">
   <a href="https://projectbasilisk.pages.dev/" target="_blank">
