@@ -142,7 +142,6 @@ SOL: ```GT55rF4SPHQuiUWytDhYTfocNH7iwaAwDkmyDikkKECK``` <br>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saganaki22&theme=tokyonight&show_icons=true&hide_border=true" />
   <img src="https://github-readme-streak-stats-ten-topaz.vercel.app/?user=Saganaki22&theme=tokyonight&hide_border=true" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saganaki22&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
