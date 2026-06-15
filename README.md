@@ -135,15 +135,14 @@ SOL: ```GT55rF4SPHQuiUWytDhYTfocNH7iwaAwDkmyDikkKECK``` <br>
 
 </div>
 
-<p align="center">
-  <a href="https://huggingface.co/drbaph">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face Logo">
-  </a>
-</p>
+---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saganaki22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saganaki22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <br><br>
   <img src="https://github-readme-streak-stats-ten-topaz.vercel.app/?user=Saganaki22&theme=tokyonight&hide_border=true" />
-  <br>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saganaki22&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
 </div>
 
